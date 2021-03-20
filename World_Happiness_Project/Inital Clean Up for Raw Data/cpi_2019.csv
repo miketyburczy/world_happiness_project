@@ -1,0 +1,181 @@
+,Country,Region,CPI score 2019
+0,Denmark,WE/EU,87
+1,New Zealand,AP,87
+2,Finland,WE/EU,86
+3,Singapore,AP,85
+4,Sweden,WE/EU,85
+5,Switzerland,WE/EU,85
+6,Norway,WE/EU,84
+7,Netherlands,WE/EU,82
+8,Germany,WE/EU,80
+9,Luxembourg,WE/EU,80
+10,Australia,AP,77
+11,Canada,AME,77
+12,Hong Kong,AP,76
+13,United Kingdom,WE/EU,77
+14,Austria,WE/EU,77
+15,Belgium,WE/EU,75
+16,Estonia,WE/EU,74
+17,Iceland,WE/EU,78
+18,Japan,AP,73
+19,Ireland,WE/EU,74
+20,United Arab Emirates,MENA,71
+21,Uruguay,AME,71
+22,France,WE/EU,69
+23,Bhutan,AP,68
+24,Chile,AME,67
+25,United States of America,AME,69
+26,Seychelles,SSA,66
+27,Taiwan,AP,65
+28,Barbados,AME,62
+29,Bahamas,AME,64
+30,Qatar,MENA,62
+31,Spain,WE/EU,62
+32,"Korea, South",AP,59
+33,Portugal,WE/EU,62
+34,Botswana,SSA,61
+35,Brunei Darussalam,AP,60
+36,Israel,MENA,60
+37,Lithuania,WE/EU,60
+38,Slovenia,WE/EU,60
+39,Saint Vincent and the Grenadines,AME,59
+40,Cabo Verde,SSA,58
+41,Costa Rica,AME,56
+42,Cyprus,WE/EU,58
+43,Latvia,WE/EU,56
+44,Georgia,ECA,56
+45,Poland,WE/EU,58
+46,Saint Lucia,AME,55
+47,Dominica,AME,55
+48,Czechia,WE/EU,56
+49,Oman,MENA,52
+50,Rwanda,SSA,53
+51,Grenada,AME,53
+52,Italy,WE/EU,53
+53,Malta,WE/EU,54
+54,Mauritius,SSA,52
+55,Saudi Arabia,MENA,53
+56,Malaysia,AP,53
+57,Namibia,SSA,52
+58,Greece,WE/EU,48
+59,Armenia,ECA,42
+60,Jordan,MENA,48
+61,Slovakia,WE/EU,50
+62,Belarus,ECA,45
+63,Croatia,WE/EU,47
+64,Cuba,AME,48
+65,Sao Tome and Principe,SSA,46
+66,Montenegro,ECA,45
+67,Senegal,SSA,45
+68,Bulgaria,WE/EU,43
+69,Hungary,WE/EU,44
+70,Jamaica,AME,43
+71,Romania,WE/EU,44
+72,South Africa,SSA,44
+73,Tunisia,MENA,43
+74,Ghana,SSA,41
+75,Maldives,AP,29
+76,Vanuatu,AP,46
+77,Argentina,AME,45
+78,Bahrain,MENA,42
+79,China,AP,41
+80,Kuwait,MENA,40
+81,Solomon Islands,AP,42
+82,Benin,SSA,41
+83,Guyana,AME,40
+84,Lesotho,SSA,40
+85,Burkina Faso,SSA,40
+86,India,AP,41
+87,Morocco,MENA,41
+88,Timor-Leste,AP,38
+89,Trinidad and Tobago,AME,40
+90,Turkey,ECA,39
+91,Colombia,AME,37
+92,Ecuador,AME,38
+93,Brazil,AME,35
+94,Ethiopia,SSA,37
+95,Kazakhstan,ECA,34
+96,Peru,AME,36
+97,Serbia,ECA,39
+98,Sri Lanka,AP,38
+99,Suriname,AME,44
+100,Tanzania,SSA,37
+101,Gambia,SSA,37
+102,Indonesia,AP,40
+103,Albania,ECA,35
+104,Algeria,MENA,35
+105,Cote d'Ivoire,SSA,35
+106,El Salvador,AME,34
+107,Kosovo,ECA,36
+108,Thailand,AP,36
+109,Vietnam,AP,37
+110,Bosnia and Herzegovina,ECA,36
+111,Mongolia,AP,35
+112,North Macedonia,ECA,35
+113,Panama,AME,36
+114,Moldova,ECA,32
+115,Philippines,AP,34
+116,Egypt,MENA,35
+117,Eswatini,SSA,34
+118,Nepal,AP,34
+119,Sierra Leone,SSA,33
+120,Ukraine,ECA,30
+121,Zambia,SSA,34
+122,Niger,SSA,32
+123,Bolivia,AME,31
+124,Kenya,SSA,28
+125,Kyrgyzstan,ECA,30
+126,Mexico,AME,29
+127,Pakistan,AP,32
+128,Azerbaijan,ECA,30
+129,Gabon,SSA,31
+130,Malawi,SSA,31
+131,Mali,SSA,29
+132,Russia,ECA,28
+133,Laos,AP,29
+134,Mauritania,SSA,28
+135,Togo,SSA,29
+136,Dominican Republic,AME,28
+137,Guinea,SSA,29
+138,Liberia,SSA,28
+139,Myanmar,AP,29
+140,Paraguay,AME,28
+141,Angola,SSA,26
+142,Djibouti,SSA,30
+143,Papua New Guinea,AP,28
+144,Uganda,SSA,28
+145,Bangladesh,AP,26
+146,Central African Republic,SSA,25
+147,Uzbekistan,ECA,25
+148,Cameroon,SSA,25
+149,Guatemala,AME,26
+150,Iran,MENA,26
+151,Lebanon,MENA,28
+152,Madagascar,SSA,24
+153,Mozambique,SSA,26
+154,Nigeria,SSA,26
+155,Tajikistan,ECA,25
+156,Honduras,AME,26
+157,Zimbabwe,SSA,24
+158,Nicaragua,AME,22
+159,Cambodia,AP,20
+160,Chad,SSA,20
+161,Comoros,SSA,25
+162,Eritrea,SSA,23
+163,Iraq,MENA,20
+164,Afghanistan,AP,16
+165,Burundi,SSA,19
+166,Congo,SSA,19
+167,Guinea Bissau,SSA,18
+168,Turkmenistan,ECA,19
+169,Democratic Republic of the Congo,SSA,18
+170,Haiti,AME,18
+171,"Korea, North",AP,17
+172,Libya,MENA,18
+173,Equatorial Guinea,SSA,16
+174,Sudan,SSA,16
+175,Venezuela,AME,16
+176,Yemen,MENA,15
+177,Syria,MENA,13
+178,Somalia,SSA,9
+179,South Sudan,SSA,12
